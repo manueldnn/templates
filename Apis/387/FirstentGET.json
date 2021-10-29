@@ -53,6 +53,10 @@
             "value": "[RecordId]"
           },
           {
+            "name": "Currency",
+            "value": "[Record:Currency]"
+          },
+          {
             "name": "Name",
             "value": "[Record:Name]"
           },
