@@ -178,5 +178,17 @@
       "RoleName": "All Users",
       "Value": "all"
     }
+  ],
+  "9": [
+    {
+      "Id": 58,
+      "PermissionType": {
+        "Id": 1,
+        "Name": "Can View"
+      },
+      "RoleId": 9,
+      "RoleName": "Users",
+      "Value": "own"
+    }
   ]
 }

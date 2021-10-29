@@ -44,5 +44,28 @@
     "IsFilterable": false,
     "IsSortable": false,
     "OrderIndex": 2
+  },
+  {
+    "Id": 14,
+    "UniqueId": "19c16c8c-d269-4672-8877-a224bb27a40a",
+    "EntityVersionId": 5,
+    "Name": "Currency",
+    "Type": {
+      "Id": "Money",
+      "Name": "Money",
+      "InputType": {
+        "Id": "Money",
+        "Name": "Money",
+        "ValueType": "Decimal",
+        "Length": 17,
+        "Icon": "attach_money"
+      }
+    },
+    "IsDeleted": false,
+    "IsRequired": false,
+    "IsSearchable": false,
+    "IsFilterable": false,
+    "IsSortable": false,
+    "OrderIndex": 4
   }
 ]
